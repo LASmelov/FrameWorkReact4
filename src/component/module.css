@@ -1,0 +1,193 @@
+.logo{
+margin-left: 500px;
+ margin-top: -100px;
+}
+
+.twocard{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 40px;
+   
+}
+
+.twocard span{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    background-color: #95B0D8;
+    border: solid 1px black;
+    border-radius: 14px;
+}
+
+.twocard input{
+    
+    color: #A0A0A0;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+.card1{
+    padding: 20px;
+    width: 388px;
+height: 239px;
+position: absolute;
+
+border-radius: 10px;
+border: 0px solid #000;
+background: #ECECEC;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+.card1flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card1flex input{
+    width: 324px;
+height: 42px;
+border: 2px solid #ADADAD;
+background: #FFF;
+}
+
+.mmandyy{
+    display: flex;
+
+}
+
+.mmandyy input{
+    width: 73px;
+height: 30 px;
+flex-shrink: 0;
+border: 2px solid #ADADAD;
+background: #FFF;
+margin: 10px;
+}
+
+.shless{
+    margin-top:-10px ;
+  padding: 10px;
+  font-size: 40px;
+  color: #ADADAD;
+}
+
+.valid{
+
+color: #000;
+
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.card2{
+    padding: 20px;
+ margin-left: 140px;
+ margin-top: 60px;
+    width: 388px;
+height: 239px;
+position: absolute;
+
+border-radius: 10px;
+background: #C7C7C7;
+}
+
+.poloska{
+    margin-top: 31px;
+    position: relative;
+    width: 388px;
+    height: 50px;
+    background: #979797;
+}
+
+.card2 input{
+    width: 73px;
+height: 42px;
+position: relative;
+margin-left: 293px;
+margin-top: 80px;
+
+border: 2px solid #ADADAD;
+background: #FFF;
+
+
+
+}
+
+
+
+
+
+
+
+.butonshik{
+    position: absolute;
+
+    margin-top: 400px;
+    width: 187px;
+height: 48px;
+border-radius: 11px;
+background: #95B0D8;
+
+
+color: #FFF;
+
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+
+
+.tableborder{
+    margin-top: 600px;
+    margin-left:40px ;
+    width: 723px;
+
+border-radius: 28px;
+background: #95B0D8;
+padding: 20px;
+}
+
+.table1{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 680px;
+
+}
+
+th{
+    border-radius: 4px 0px 0px 0px;
+border: 1px solid #828282;
+
+background: #E5E5E5;
+
+width: 170px;
+height: 40px;
+}
+
+td{
+    border: 1px solid #828282;
+
+background: #FFF;
+
+width: 170px;
+height: 40px;
+}
